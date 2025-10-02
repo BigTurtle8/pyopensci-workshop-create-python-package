@@ -5,10 +5,7 @@
 | Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyospackage_bigturtle8.svg)](https://pypi.org/project/pyospackage_bigturtle8/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyospackage_bigturtle8.svg)](https://pypi.org/project/pyospackage_bigturtle8/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
-*TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
-If you don't plan to publish to PyPI, you can remove them.*
-
-pyospackage_bigturtle8 is a project that (describe what it does here).
+pyospackage_bigturtle8 is a project that performs basic arithmetic between two numbers.
 
 ## Get started
 
@@ -18,13 +15,12 @@ You can install this package into your preferred Python environment using pip:
 $ pip install pyospackage_bigturtle8
 ```
 
-TODO: Add a brief example of how to use the package to this section
-
 To use pyospackage_bigturtle8 in your code:
 
 ```python
 >>> import pyospackage_bigturtle8
->>> pyospackage_bigturtle8.hello_world()
+>>> pyospackage_bigturtle8.example.add_numbers(1, 2)
+3
 ```
 
 ## Copyright
