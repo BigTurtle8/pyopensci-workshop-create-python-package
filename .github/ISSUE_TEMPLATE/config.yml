@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Community Support
+    url: https://github.com/BigTurtle8/pyospackage_bigturtle8/discussions
+    about: Please ask and answer questions here.
